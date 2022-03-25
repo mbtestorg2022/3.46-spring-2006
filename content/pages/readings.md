@@ -40,7 +40,7 @@ Glass, A. M. "Optical Materials." _Science_ 235 (February 27, 1987): 1003-1009.
   
 Kimerling, L. C. "Bands and Bonds." ([PDF]({{< baseurl >}}/resources/bns_bonds_kimerl))  
   
-Handout: Materials Design by Property Maps (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mat_des_by_pro_m))  
+Handout: Materials Design by Property Maps ([PDF]({{< baseurl >}}/resources/mat_des_by_pro_m))  
   
 [Periodic Table of the Elements](http://www.webelements.com/webelements/index.html)  
   
@@ -120,7 +120,7 @@ Chapters 7 and 8
 {{< tdopen >}}
 Glass, Alastair M., David J. DiGiovanni, Thomas A. Strasser, Andrew J. Stentz, Richard E. Slusher, Alice E. White, A Refik Kortan, and Benjamin J. Eggleton. "Advances in Fiber Optics." _Bell Labs Technical Journal_ 5, no. 1 (January - March 2000): 168-187.  
   
-Hopper, F. "Basics on Optical Waveguides: Materials, Systems, and Technologies." _Quaderni di Fotonica._ Vol. 8, Societa italiana di ottica e fotonica, 2001, pp. 65-80. ISBN: 9788879571234. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/bics_on_opt_w_ho)) (Courtesy of Fred Hopper. Used with permission.)  
+Hopper, F. "Basics on Optical Waveguides: Materials, Systems, and Technologies." _Quaderni di Fotonica._ Vol. 8, Societa italiana di ottica e fotonica, 2001, pp. 65-80. ISBN: 9788879571234. ([PDF]({{< baseurl >}}/resources/bics_on_opt_w_ho)) (Courtesy of Fred Hopper. Used with permission.)  
   
 Nagel, Suzanne R. "Optical Fiber - The Expanding Medium." _IEEE Circuits and Devices Magazine_ (March 1989): 36-45.  
   
@@ -300,7 +300,7 @@ Dautremont-Smith, C. William, R. J. McCoy, Randolph H. Burton, and Albert G. Bac
   
 Johnston, W. Dexter, Jr., Michael A. Digiuseppe, and Daniel P. Wilt. "Liquid and Vapor Phase Growth of III-V Materials for Photonic Devices." _AT&T Journal_ (January/February 1989): 53-63.  
   
-Kimerling, L. "Phase Transformations." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/phase_t2))  
+Kimerling, L. "Phase Transformations." ([PDF]({{< baseurl >}}/resources/phase_t2))  
   
 Panish, Mortan B. "Molecular-Beam Epitaxy." _AT&T Journal_ (January/February 1989): 43-52.
 {{< tdclose >}}
@@ -336,7 +336,7 @@ Defects and Strain
 {{< tdopen >}}
 Kimerling, L. C. "Defect Engineering." _MRS Bulletin_ (December 1991): 42-47.  
   
-———. "Notes on Defects in Solids." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/defects_solids))  
+———. "Notes on Defects in Solids." ([PDF]({{< baseurl >}}/resources/defects_solids))  
   
 ———. "The Influence of Electronic Excitation on the Performance and Reliability of Semiconductor Devices." _Reviews of Solid State Science_ 4 (1990): 335-354.  
   
@@ -402,7 +402,7 @@ Detectors 2
  
 {{< tdclose >}}
 {{< tdopen >}}
-Giovane, Laura. Excerpt from thesis "The Role of Strain in Optical Properties of Semiconductors." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/detector2_thesis))
+Giovane, Laura. Excerpt from thesis "The Role of Strain in Optical Properties of Semiconductors." ([PDF]({{< baseurl >}}/resources/detector2_thesis))
 {{< tdclose >}}
 
 {{< trclose >}}

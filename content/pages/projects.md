@@ -21,7 +21,7 @@ Preparing Mentally for a Presentation ([PDF]({{< baseurl >}}/resources/present_p
 Design Reviews
 --------------
 
-Design Review 1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/3_46_des_rev1))
+Design Review 1 ([PDF]({{< baseurl >}}/resources/3_46_des_rev1))
 
 Design Review 2 ([PDF]({{< baseurl >}}/resources/3_46_des_rev2))
 
