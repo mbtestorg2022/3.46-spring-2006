@@ -5,6 +5,7 @@ description: This file make the students learn about how to define themselves we
   presenting preliminary, possibly incorrect, results for criticism.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/3-46-photonic-materials-and-devices-spring-2006/c86bcde6cd493a38283d6cce788ee3d0_present_prep.pdf
 file_type: application/pdf
+parent_uid: 12dbbc1f-f406-d9a1-7089-339cbf2567eb
 resourcetype: Document
 title: present_prep.pdf
 uid: c86bcde6-cd49-3a38-283d-6cce788ee3d0
